@@ -1,7 +1,3 @@
-Your GitHub README should be structured clearly to explain your pipeline setup, making it easy for others to understand and reproduce your work. Here's a suggested structure:
-
----
-
 # **WSDM 2018 KKBOX Churn Prediction – ETL & MLOps Pipeline**  
 
 ## **📌 Project Overview**  
