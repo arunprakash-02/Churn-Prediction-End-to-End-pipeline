@@ -3,6 +3,19 @@
 ## **📌 Project Overview**  
 This project aims to predict customer churn using the **WSDM 2018 KKBOX dataset**. It implements an **end-to-end machine learning pipeline**, from **ETL (Extract, Transform, Load)** to **model training, deployment, and MLOps practices**.
 
+💼 Business Problem & Objective
+🎯 Problem Statement
+Customer churn is a major challenge for subscription-based businesses. KKBOX wants to identify users at risk of churning (not renewing their subscription) so they can take preventive actions like personalized offers or targeted marketing campaigns.
+
+📊 Business Impact
+Reduce revenue loss by predicting and retaining high-value customers.
+Optimize marketing costs by focusing retention efforts on the right users.
+Improve user experience by understanding churn behavior.
+🔍 Key Business Questions
+Who are the users most likely to churn?
+What factors contribute to customer churn?
+Can early detection help in preventing churn?
+
 ## **🛠️ Tech Stack & Tools**  
 - **Programming Language:** Python  
 - **ETL & Data Processing:** Pandas, NumPy, Dask, Apache Spark  
