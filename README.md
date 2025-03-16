@@ -7,6 +7,8 @@ This project aims to predict customer churn using the **WSDM 2018 KKBOX dataset*
 🎯 Problem Statement
 Customer churn is a major challenge for subscription-based businesses. KKBOX wants to identify users at risk of churning (not renewing their subscription) so they can take preventive actions like personalized offers or targeted marketing campaigns.
 
+🔗 Kaggle Competition: WSDM - KKBOX’s Churn Prediction Challenge
+
 📊 Business Impact
 Reduce revenue loss by predicting and retaining high-value customers.
 Optimize marketing costs by focusing retention efforts on the right users.
