@@ -35,7 +35,7 @@ This project aims to predict customer churn using the **WSDM 2018 KKBOX dataset*
 ## **🚀 Setup & Installation**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/kkbox-churn.git
+   [git clone https://github.com/your-username/kkbox-churn.git](https://github.com/arunprakash-02/Churn-Prediction-End-to-End-pipeline.git)
    cd kkbox-churn
    ```
 
@@ -82,6 +82,4 @@ This project aims to predict customer churn using the **WSDM 2018 KKBOX dataset*
 ## **📜 License**  
 [MIT License](LICENSE)  
 
----
 
-Would you like any modifications or additional sections? 🚀
